@@ -25,11 +25,14 @@ I am passionate about software development, full-stack web development, and arti
 
 | Technology | Purpose |
 |---|---|
-| HTML5 | Website structure |
-| CSS3 | Styling and responsive design |
+| HTML | Website structure |
+| CSS | Styling and responsive design |
 | JavaScript | Interactive features |
 | Font Awesome | Icons and logos |
 
+## 📄 Resume
+
+[Download My Resume](./resume.pdf)
 ## 📂 Project Structure
 
 ```text
